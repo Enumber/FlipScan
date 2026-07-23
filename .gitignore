@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+gemini_env/
+拍照结果/
+*.jpg
+*.mp4
